@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img width="450px" src="./.github/assets/logo.svg" />
+  <img width="450px" src="./.github/public/logo.svg" />
   <br />
 </h1>
 <p align="center">
-  <a href="#page_facing_up-descrição">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#page_facing_up-descrição">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;-
   <a href="#art-Layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#clipboard-Funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -66,13 +66,7 @@ $ npm run dev
 
 ## :man: Autor
 
-<a href="https://github.com/jhonatanborg">
- <img src="https://avatars0.githubusercontent.com/u/61118233?s=400&u=37870397a9363ce5e768975c05e95a5f5d323ca1&v=4" width="70px;" alt=""/>
- <br />
- <sub><b>Jhonatan Borges</b></sub>
-</a>
-
-Feito com ❤️ por Jhonatan Borges 🚀
+Feito com ❤️ por <strong>Jhonatan Borges 🚀</strong>
 
 <a href="https://www.linkedin.com/in/jhonatanborg">
   <img alt="Linkedin" src="https://img.shields.io/badge/-Alexandre%20Costa-9871F5?label=Linkedin&logo=linkedin&style=flat-square">
