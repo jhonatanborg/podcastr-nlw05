@@ -68,10 +68,6 @@ $ npm run dev
 
 Feito com ❤️ por <strong>Jhonatan Borges 🚀</strong>
 
-<a href="https://www.linkedin.com/in/jhonatanborg">
-  <img alt="Linkedin" src="https://img.shields.io/badge/-Alexandre%20Costa-9871F5?label=Linkedin&logo=linkedin&style=flat-square">
-</a>
-
 ## :memo: Licença
 
 Copyright © 2020 [Jhonatan Borges](https://github.com/jhonatanborg).<br />
