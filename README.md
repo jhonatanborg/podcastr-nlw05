@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img width="450px" src="./.github/public/logo.svg" />
+  <img width="450px" src="./.github/logo.svg" />
   <br />
 </h1>
 <p align="center">
@@ -12,7 +12,7 @@
   <a href="#memo-Licença">Licença</a>
 </p>
 
-<img src="./.github/assets/podcastr.svg" />
+<img src="./.github/assets/logo.svg" />
 
 ## :page_facing_up: Descrição
 
@@ -21,6 +21,11 @@ O Podcastr é um app para ouvir podcasts sobre programação
 ## :art: Layout
 
 Você pode acessar o Layout pelo <a href="https://www.figma.com">Figma<a> atravês <a href="https://www.figma.com/file/5KchzYko8NeeV0suqrSi6x/Podcastr-(Copy)?node-id=199599%3A1028">desse link<a>.
+
+<div>
+   <img src="./.github/screenshot-1.png" width="400px">
+   <img src="./.github/screenshot-2.png" width="400px">
+</div>
 
 ## 🛠 Tecnologias
 
